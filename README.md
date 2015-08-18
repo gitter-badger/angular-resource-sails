@@ -1,6 +1,8 @@
 angular-resource-sails
 ======================
 
+[![Join the chat at https://gitter.im/rhettl/angular-resource-sails](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rhettl/angular-resource-sails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://travis-ci.org/angular-resource-sails/angular-resource-sails">
 	<img src="https://travis-ci.org/angular-resource-sails/angular-resource-sails.svg" title="Build Status Images"/>
 </a>
